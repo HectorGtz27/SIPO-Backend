@@ -2,7 +2,7 @@
 
 ## Overview
 
-The SIPO project at Encora Inc. crafted a RESTful API for talent management using TypeScript and NodeJS, guided by the MVC design pattern. This backend service supports the allocation and management of clients, projects, vacancies, and employees, enhancing resource visibility and optimizing operations.
+The SIPO project at Encora Inc. crafted a RESTful API for talent management using TypeScript and NodeJS, guided by the MVC design pattern. This backend service supports the allocation and management of clients, projects, vacancies, and employees, enhancing resource visibility and optimizing operations. The technology stack includes TypeScript for the language, Node.js as the runtime, ExpressJS as the framework, Sequelize as the ORM, PostgreSQL for the database, and OAuth with Microsoft credentials for authentication.
 
 ## Features
 
